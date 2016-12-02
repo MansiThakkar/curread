@@ -16,6 +16,12 @@ TODOs :
 - [ ] Determine what the value of currency is.
       * Look for digits on the currency, and infer its value.
 - [ ] Give a voice message to the user, delivering what the value and type of currency is.
-------------
 
 This project is under heavy development, hence totally open to contributions and suggestions.
+
+##Contribution guidelines
+
+* Fork the repo, and clone it.
+* Install Android Studio on your pc, (both Linux and Windows) and open the project in it.
+* Go through the basics of Android Development, and start working.
+* When you have added a feature, push the changes to your repo, and make a pull request.
